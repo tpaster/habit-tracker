@@ -12,4 +12,4 @@ For example, for the habit of doing yoga, the app will track not only that the u
 
 ## Authors
 
-Terra Pasternak - Initial Work - tpaster
+* **Terra Pasternak** - *Initial Work* - [tpaster](https://github.com/tpaster)
